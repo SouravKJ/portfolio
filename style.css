@@ -224,7 +224,7 @@ span{
 @keyframes words {
     0%,
     20%{
-        content: "Machine Learning Engineer";
+        content: "ML Engineer";
     }
     21%,
     40%{
