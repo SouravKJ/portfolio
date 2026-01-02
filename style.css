@@ -224,7 +224,7 @@ span{
 @keyframes words {
     0%,
     20%{
-        content: "Frontend Designer";
+        content: "Machine Learning";
     }
     21%,
     40%{
@@ -236,7 +236,7 @@ span{
     }
     61%,
     80%{
-        content: "Frontend Designer";
+        content: "Problem Solver";
     }
     81%,
     100%{
